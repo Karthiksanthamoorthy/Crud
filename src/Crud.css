@@ -1,0 +1,26 @@
+body{
+    background-color: gold
+}
+
+*{
+    text-align: center;
+}
+input{
+    height: 35px;
+    width: 20%;
+}
+button{
+    height: 40px;
+    width: 20%;
+    background-color: aqua;
+}
+.edit{
+    height: 40px;
+    width: 20%;
+    background-color: green;
+}
+.delete{
+    height: 40px;
+    width: 20%;
+    background-color: red;
+}
